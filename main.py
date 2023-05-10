@@ -2,7 +2,7 @@ import openai
 from youtube_transcript_api import YouTubeTranscriptApi
 
 # Put your OpenAI API key here
-openai.api_key = "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"
+openai.api_key = "OPEN-AI-API-KEY"
 
 def extract_video_id(video_link):
     video_id = None
